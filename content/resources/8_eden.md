@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c284391-493b-7e4d-7430-fc3546d2eb36
 resourcetype: Document
 title: 8_eden.pdf
 uid: 55bd4534-90af-9652-4aa0-b3b4939b6dcd

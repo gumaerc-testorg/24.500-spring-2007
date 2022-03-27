@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c284391-493b-7e4d-7430-fc3546d2eb36
 resourcetype: Document
 title: 6_crane.pdf
 uid: ab0416d8-9df2-f36e-a108-451ae17ebb9f

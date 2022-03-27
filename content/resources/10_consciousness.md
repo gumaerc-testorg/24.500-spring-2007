@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c284391-493b-7e4d-7430-fc3546d2eb36
 resourcetype: Document
 title: 10_consciousness.pdf
 uid: ce18f581-43e2-0f73-e21a-0875b86db335

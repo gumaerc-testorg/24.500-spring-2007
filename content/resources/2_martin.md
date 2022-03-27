@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c284391-493b-7e4d-7430-fc3546d2eb36
 resourcetype: Document
 title: 2_martin.pdf
 uid: 87d352d4-f2d3-9861-bb63-a8636ac3bb88

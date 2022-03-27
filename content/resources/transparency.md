@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d7351308-f31e-9993-a15b-c8cdb0dc325d
 resourcetype: Document
 title: transparency.pdf
 uid: 7d419c4e-81fb-5a15-537a-4bb215046779
