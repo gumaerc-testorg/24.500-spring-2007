@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the writing assignments for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 16987abd-2017-7cb9-fb5c-fd1f87981c8e
 ---
