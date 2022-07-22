@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes used for the course along with
+  the schedule of lecture topics and visitors.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7c284391-493b-7e4d-7430-fc3546d2eb36
 ---
@@ -24,7 +29,7 @@ TOPICS
 {{< tdopen >}}
 
 
-Introduction ([PDF]({{< baseurl >}}/resources/1_intro))
+Introduction ({{% resource_link 1fc20bb9-4fec-b2c3-b3ff-e9d68bbee64e "PDF" %}})
 
 Martin: Transparency
 
@@ -37,7 +42,7 @@ Martin: Transparency
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Martin: Transparency (cont.) ([PDF]({{< baseurl >}}/resources/2_martin))
+Martin: Transparency (cont.) ({{% resource_link 87d352d4-f2d3-9861-bb63-a8636ac3bb88 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Martin: Transparency (cont.) ([PDF]({{< baseurl >}}/resources/2_martin))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Campbell: Reference and consciousness ([PDF]({{< baseurl >}}/resources/3_martin))
+Campbell: Reference and consciousness ({{% resource_link faf3864a-9a8d-26fc-2635-d16fe6a71ccb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Siegel: Contents of visual experience
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Crane: Perceptual relations ([PDF - 2.2 MB]({{< baseurl >}}/resources/6_crane))
+Crane: Perceptual relations ({{% resource_link ab0416d8-9df2-f36e-a108-451ae17ebb9f "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Crane: Perceptual relations ([PDF - 2.2 MB]({{< baseurl >}}/resources/6_crane))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Campbell, Frith, and Johnstone: Thought insertion and schizophrenia ([PDF - 1.8 MB]({{< baseurl >}}/resources/7_thoughts))
+Campbell, Frith, and Johnstone: Thought insertion and schizophrenia ({{% resource_link b86d1edf-d522-0f04-3cc6-77662f67adc7 "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ Campbell, Frith, and Johnstone: Thought insertion and schizophrenia ([PDF - 1.8 
 {{< tdopen >}}
 
 
-Thought insertion (cont.) ([PDF - 1.2 MB]({{< baseurl >}}/resources/8_eden))
+Thought insertion (cont.) ({{% resource_link 55bd4534-90af-9652-4aa0-b3b4939b6dcd "PDF - 1.2 MB" %}})
 
 Chalmers: Perception and fall from Eden
 
@@ -127,7 +132,7 @@ Visitor: David Chalmers
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Block: Consciousness ([PDF]({{< baseurl >}}/resources/10_consciousness))
+Block: Consciousness ({{% resource_link ce18f581-43e2-0f73-e21a-0875b86db335 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ Block: Consciousness ([PDF]({{< baseurl >}}/resources/10_consciousness))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Schwitzgebel: Introspection ([PDF]({{< baseurl >}}/resources/11_schwitzgebel))
+Schwitzgebel: Introspection ({{% resource_link fb60feed-afcd-2e48-7df1-2f33cc5e479c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

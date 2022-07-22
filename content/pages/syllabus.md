@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about prerequisites, required texts, grading, academic misconduct, recommended citation,
+  and the schedule of lecture topics, visitors, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: dd500cdc-7374-d8bc-d424-145a7b51f78a
 ---
@@ -17,7 +22,7 @@ This course is a survey of recent philosophy of perception. The main topics disc
 Required Texts
 --------------
 
-The required texts below are complemented with original papers in [readings]({{< baseurl >}}/pages/readings). There are recommended readings for additional background.
+The required texts below are complemented with original papers in {{% resource_link d7351308-f31e-9993-a15b-c8cdb0dc325d "readings" %}}. There are recommended readings for additional background.
 
 Campbell, John. _Reference and Consciousness_. Oxford Cognitive Science Series. Edited by Martin Davies, James Higginbotham, Philip Johnson-Laird, Christopher Peacocke, and Kim Plunkett. New York, NY: Oxford University Press, 2002. ISBN: 9780199243815.
 

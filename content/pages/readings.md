@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about required texts and list of readings
+  by lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d7351308-f31e-9993-a15b-c8cdb0dc325d
 ---
@@ -52,7 +57,7 @@ Martin: Transparency
 
 ### Required readings
 
-Handout: Martin, "The Transparency of Experience." ([PDF]({{< baseurl >}}/resources/transparency))
+Handout: Martin, "The Transparency of Experience." ({{% resource_link 7d419c4e-81fb-5a15-537a-4bb215046779 "PDF" %}})
 
 Martin, M. G. F. "The Transparency of Experience." _Mind and Language_ 17, no. 4 (September 2002): 376-425.
 
@@ -164,7 +169,7 @@ Siegel: Contents of visual experience
 
 ### Required readings
 
-Handout: "The Contents of Visual Experience." ([PDF]({{< baseurl >}}/resources/content_view))
+Handout: "The Contents of Visual Experience." ({{% resource_link b03dcaa4-d64b-490c-0a48-cf7b6a559718 "PDF" %}})
 
 Crane, Tim. "[The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/)." Stanford Encyclopedia of Philosophy, March 8, 2005. (accessed February 5, 2007).
 
@@ -270,7 +275,7 @@ Block: Consciousness
 
 ### Required readings
 
-Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/puzzle.pdf))
+Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. ([PDF - 1.0 MB](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/puzzle.pdf))
 
 ### Recommended readings
 
