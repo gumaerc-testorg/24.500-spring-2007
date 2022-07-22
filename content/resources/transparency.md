@@ -5,6 +5,7 @@ file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: transparency.pdf
 uid: 7d419c4e-81fb-5a15-537a-4bb215046779
 ---
 Lecture handout on Martin and the transparency of experience.
-

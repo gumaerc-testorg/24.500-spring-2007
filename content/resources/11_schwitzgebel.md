@@ -5,6 +5,7 @@ file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 11_schwitzgebel.pdf
 uid: fb60feed-afcd-2e48-7df1-2f33cc5e479c
 ---
 Lecture slides on introspection.
-

@@ -5,6 +5,7 @@ file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8_eden.pdf
 uid: 55bd4534-90af-9652-4aa0-b3b4939b6dcd
 ---
 Lecture slides about thought insertion, perception, and fall from Eden.
-

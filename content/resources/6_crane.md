@@ -5,6 +5,7 @@ file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6_crane.pdf
 uid: ab0416d8-9df2-f36e-a108-451ae17ebb9f
 ---
 Lecture slides about perceptual relations.
-
