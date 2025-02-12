@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture slides about thought insertion, perception, and fall from Eden.
-file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/55bd453490af96524aa0b3b4939b6dcd_8_eden.pdf
+file: /ol-ocw-studio-app/courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/55bd453490af96524aa0b3b4939b6dcd_8_eden.pdf
+file_size: 1274266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

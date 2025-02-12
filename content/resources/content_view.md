@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture handout on the contents of visual experience.
-file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/b03dcaa4d64b490c0a48cf7b6a559718_content_view.pdf
+file: /ol-ocw-studio-app/courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/b03dcaa4d64b490c0a48cf7b6a559718_content_view.pdf
+file_size: 132705
 file_type: application/pdf
 learning_resource_types:
 - Readings

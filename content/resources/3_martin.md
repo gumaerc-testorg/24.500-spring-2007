@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture slides about transparency, reference, and consciousness.
-file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/faf3864a9a8d26fc2635d16fe6a71ccb_3_martin.pdf
+file: /ol-ocw-studio-app/courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/faf3864a9a8d26fc2635d16fe6a71ccb_3_martin.pdf
+file_size: 475370
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
