@@ -47,7 +47,7 @@ To put it bluntly, plagiarism is theft and fraud -- it is the theft of someone e
 3.  When you use information that might not be considered common knowledge, cite the source.
 4.  When in doubt about whether or not to give a citation, always give a citation.
 
-Additional Information: [Citing and Using Sources](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/)
+Additional Information: {{% resource_link "5cc37912-b7e4-4b8d-a165-dfd359ff292d" "Citing and Using Sources" %}}
 
 \*This statement has been issued by the HASS Committee on Discipline.
 
