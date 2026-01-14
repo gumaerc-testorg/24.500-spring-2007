@@ -63,7 +63,7 @@ Martin, M. G. F. "The Transparency of Experience." _Mind and Language_ 17, no. 4
 
 ### Recommended readings
 
-Siegel, Susanna. "{{% resource_link "b73966f8-517e-4ea8-870e-9944ed8aacbc" "The Epistemic Conception of Hallucination" %}}." In _Disjunctivism: Perception, Action, Knowledge._ Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546.
+Siegel, Susanna. "[The Epistemic Conception of Hallucination](https://www.semanticscholar.org/paper/The-Epistemic-Conception-of-Hallucination-Siegel/fce3a373cdafd821d03121725fd7484eaec592a1)." In _Disjunctivism: Perception, Action, Knowledge._ Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546.
 
 Martin, M. G. F. "The Limits of Self-Awareness." _Philosophical Studies_ 120 (2004): 37-89.
 
@@ -171,9 +171,9 @@ Siegel: Contents of visual experience
 
 Handout: "The Contents of Visual Experience." ({{% resource_link b03dcaa4-d64b-490c-0a48-cf7b6a559718 "PDF" %}})
 
-Crane, Tim. "{{% resource_link "d1d063ad-6bbe-4524-9af4-1a78268b6c5d" "The Problem of Perception" %}}." Stanford Encyclopedia of Philosophy, March 8, 2005. (accessed February 5, 2007).
+Crane, Tim. "[The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/)." Stanford Encyclopedia of Philosophy, March 8, 2005. (accessed February 5, 2007).
 
-Siegel, Susanna. "{{% resource_link "a0883c69-d0b2-4de7-881d-482ef8e322f9" "The Contents of Perception" %}}." Stanford Encyclopedia of Philosophy, March 18, 2005. (accessed February 5, 2007).
+Siegel, Susanna. "[The Contents of Perception](http://plato.stanford.edu/entries/perception-contents/)." Stanford Encyclopedia of Philosophy, March 18, 2005. (accessed February 5, 2007).
 
 ### Recommended readings
 
@@ -275,7 +275,7 @@ Block: Consciousness
 
 ### Required readings
 
-Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. ({{% resource_link "581e5577-df31-43da-a6aa-b5f5def36a85" "PDF - 1.0 MB" %}})
+Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. ([PDF - 1.0 MB](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/puzzle.pdf))
 
 ### Recommended readings
 
